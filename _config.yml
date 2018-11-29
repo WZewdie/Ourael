@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: ደብረ ብርሃን ቅዱስ ዑራኤል የኢትዮጵያ ኦርቶዶክስ ተዋሕዶ ቤተ ክርስቲያን
 description: 
+github:
+  is_project_page: false
