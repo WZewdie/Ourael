@@ -23,5 +23,6 @@ OuraelMinn@Gmail.Com
 
 Phone: (651)-771-7129
 
+<a class="twitter-timeline" href="https://twitter.com/StOurael?ref_src=twsrc%5Etfw">Tweets by StOurael</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
